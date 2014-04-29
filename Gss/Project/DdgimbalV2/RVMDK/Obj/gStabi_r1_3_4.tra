@@ -1,0 +1,52 @@
+*** Creating Trace Output File '.\Obj\gStabi_r1_3_4.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\usart1.o"'
+### List of Objects: adding '".\obj\startup.o"'
+### List of Objects: adding '".\obj\timer.o"'
+### List of Objects: adding '".\obj\gmavlinkv1_0.o"'
+### List of Objects: adding '".\obj\eeprom.o"'
+### List of Objects: adding '".\obj\globaldata.o"'
+### List of Objects: adding '".\obj\attitude.o"'
+### List of Objects: adding '".\obj\motor.o"'
+### List of Objects: adding '".\obj\sensorcalib.o"'
+### List of Objects: adding '".\obj\sbus.o"'
+### List of Objects: adding '".\obj\mpu6000.o"'
+### List of Objects: adding '".\obj\radio.o"'
+### List of Objects: adding '".\obj\gpio.o"'
+### List of Objects: adding '".\obj\gmath.o"'
+### List of Objects: adding '".\obj\adc.o"'
+### List of Objects: adding '".\obj\interrupt.o"'
+### List of Objects: adding '".\obj\ublox_gps.o"'
+### List of Objects: adding '".\obj\gssmotor.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_flash.o"'
+### List of Objects: adding '".\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\obj\stm32f10x_exti.o"'
+### List of Objects: adding '".\obj\stm32f10x_iwdg.o"'
+### List of Objects: adding '".\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\obj\stm32f10x_adc.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\startup_stm32f10x_md.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\main.o" ".\obj\system_stm32f10x.o" ".\obj\usart1.o" ".\obj\startup.o" ".\obj\timer.o" ".\obj\gmavlinkv1_0.o" ".\obj\eeprom.o" ".\obj\globaldata.o" ".\obj\attitude.o" ".\obj\motor.o" ".\obj\sensorcalib.o" ".\obj\sbus.o" ".\obj\mpu6000.o" ".\obj\radio.o" ".\obj\gpio.o" ".\obj\gmath.o" ".\obj\adc.o" ".\obj\interrupt.o" ".\obj\ublox_gps.o" ".\obj\gssmotor.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_usart.o" ".\obj\stm32f10x_gpio.o" ".\obj\misc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_flash.o" ".\obj\stm32f10x_dma.o" ".\obj\stm32f10x_exti.o" ".\obj\stm32f10x_iwdg.o" ".\obj\stm32f10x_spi.o" ".\obj\stm32f10x_adc.o" ".\obj\core_cm3.o" ".\obj\startup_stm32f10x_md.o" 
+--library_type=microlib --strict --scatter ".\Obj\gStabi_r1_3_4.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\List\gStabi_r1_3_4.map" -o .\Obj\gStabi_r1_3_4.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Obj\gStabi_r1_3_4.axf'
+### ADS-LD Command File: '.\Obj\gStabi_r1_3_4.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Obj\gStabi_r1_3_4.lnp', Handle=0x000003D8
+### Writing '.lnp' file
+### ADS-LD Command file '.\Obj\gStabi_r1_3_4.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

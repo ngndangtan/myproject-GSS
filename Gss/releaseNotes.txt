@@ -1,0 +1,16 @@
+gStabiSC fimware Release Notes
+Copyright (C) 2013 Gremsy Co., LTd.
+
+gStabiSC fimware Revision History
+--------------------------------------
+
+Oct. 10, 2013: Release v.1.1.3:
+ - add pan window, tilt window
+ - debug lỗi khởi động bị giật
+ - nghiêng góc hơn 90 độ cho chế độ follow( với điều kiện chuyển động pan trong góc pan window)
+Oct. 8, 2013: Release v.1.1.2:
+ - debug ko sử dụng speed mode cho roll
+ - nghiêng góc hơn 90 độ cho chế độ follow( với điều kiện chuyển động pan trong góc quy đinh)
+Oct. 4, 2013: Release v.1.1.1:
+ - nghiêng góc cho hơn 90 độ cho chế độ lock
+ - nghiêng goc nhỏ hơn 90 độ cho chế độ follow(vẫn còn rung khi lên góc lớn hơn 70 độ).
